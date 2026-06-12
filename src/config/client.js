@@ -20,4 +20,4 @@ export const CLIENT_EXTS = [
 
 // 默认 User-Agent，在某些 API 请求（如 DeepLFree 或部分防爬虫的机器翻译 API）时作为 Headers 模拟浏览器发送
 export const DEFAULT_USER_AGENT =
-  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36";
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36";
